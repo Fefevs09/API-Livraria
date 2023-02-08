@@ -1,0 +1,20 @@
+{
+  "name": "livraria-nodejs",
+  "version": "1.0.0",
+  "description": "API BookStore",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Felipe Vieira",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
