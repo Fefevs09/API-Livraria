@@ -1,2 +1,1 @@
-aqui vai ficar o arquivo dbConnect.js
-que vai ser responsável pela conexão com o banco de dados
+no arquivo dbConnect.js é onde deverá haver a conexão com o banco de dados, substituindo a informações entre <>
