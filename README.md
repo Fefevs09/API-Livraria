@@ -1,5 +1,5 @@
-# Livraria do Sr.Node
-Projeto de uma API Rest que cadastra, alterar, lê e deleta livros e autores.
+# API-Livraria
+Projeto de uma API Rest que cadastra, altera, lê e deleta livros e autores.
 
 ## O que aprendi nesse projeto ?
 - operação CRUD (Creat, Read, Update and Delete)
